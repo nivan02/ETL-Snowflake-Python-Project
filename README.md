@@ -1,4 +1,4 @@
-# ETL-Snowflake-Python-Project
+# ETL Pipeline with Snowflake and Python
 
 This project showcases the design of a complete ETL pipeline using **Snowflake** as the data warehouse and **Python** for automation. The goal was to integrate data from multiple sources—purchase orders, supplier invoices, supplier details, and weather information—into a unified analytical framework. The pipeline emphasizes scalable data loading, SQL-based transformations, and automation through Python.
 
